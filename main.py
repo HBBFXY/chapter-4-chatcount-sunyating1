@@ -12,7 +12,7 @@ for c in line:
         space_count += 1
     else:
         other_count += 1
-print(f"英文字符: {letter_count}")
-print(f"数字: {digit_count}")
-print(f"空格: {space_count}")
-print(f"其他字符: {other_count}")
+print(f"英文字符:{letter_count}")
+print(f"数字:{digit_count}")
+print(f"空格:{space_count}")
+print(f"其他字符:{other_count}")
