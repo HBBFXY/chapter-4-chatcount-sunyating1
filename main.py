@@ -1,4 +1,4 @@
-line = input().strip()
+line = input()
 letter_count = 0
 digit_count = 0
 space_count = 0
